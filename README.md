@@ -1,2 +1,2 @@
 # learning-Python3
-I'm a novice.
+随便学学
